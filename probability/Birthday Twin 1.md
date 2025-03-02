@@ -9,7 +9,7 @@ P(at least one event occurs) = 1 - P(none of the events occur)_
 In our case, 
 <br>P(atleast 2 share a day) 
 <br>= 1 - P(none of them share a day ie all of them have distinct days) 
-<br>= 1 - [(7/7)*(6/7)*(5/7)] 
+<br>= 1 - [(7/7) * (6/7) * (5/7)] 
 <br>= 1 - 30/49 = 19/49.
 
 For the first person, they can be born on any of the 7 days of the week.
