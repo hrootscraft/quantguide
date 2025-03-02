@@ -1,6 +1,6 @@
 **Medium** <br> 
 Assuming 365 days in a year, hoW many people do we need in a class to make the probability that at least two people have the same birthday more than 1/2?
-2<br><br>
+<br><br>
 
 **Notes**<br>
 _When calculating probabilities for "at least" scenarios, you can use the complementary approach, which often simplifies calculations. Here's a general formula:
