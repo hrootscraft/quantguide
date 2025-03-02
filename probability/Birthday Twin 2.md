@@ -38,3 +38,13 @@ Now we need the smallest n where n(n-1) > 506:
 <br>For n = 24: 24(23) = 552 > 506
 
 Therefore, n = 23 is the smallest value that makes the probability greater than 1/2.
+
+You can also use this shortcut:
+```
+Start with runninung_product=1
+For each person i (starting with i=1):
+    Multiply your running_product by (365-(i-1))/365
+    Check if result < 0.5
+    If yes, i is your answer
+    If no, continue with next person
+```
