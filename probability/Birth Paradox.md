@@ -109,3 +109,6 @@ Now we can plug these values into Bayes' theorem:
 <br>= 13/27
 
 Therefore, the probability that the family has two boys, given that one is a boy born on Friday, is 13/27.
+
+**Why This Is a Paradox**
+<br>The solution explains why this result (13/27 ≈ 48.1%) is higher than the unconditional probability of having two boys (1/4 = 25%). This is because knowing that at least one child is a boy born on Friday increases the likelihood that the family has two boys. With two boys, you have two chances to get a Friday birth, making this scenario more likely than having just one boy and one girl.
