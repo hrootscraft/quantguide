@@ -19,7 +19,7 @@ $$
 Total number of 5-card poker hands:
 
 $$
-\binom{52}{5} = 2,\!598,\!960
+\binom{52}{5} = 2,598,960
 $$
 
 ---
